@@ -14,7 +14,7 @@ FAQ:
 
 > **Q:** Is this legally enforceable?
 > 
-> **A:** Nope, but no support or help will be given by anyone who does not agree.
+> **A:** Nope, but no support or help will be given to anyone who does not agree.
 
 > **Q:** But what about other people going through X issue? Are you ignoring them??
 > 
